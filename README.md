@@ -1,3 +1,57 @@
+# Probability and Statistics Learning Guide
+
+A systematic learning guide for probability theory and mathematical statistics, designed for "audio learning" scenarios.
+
+## ✨ Features
+
+- 📖 **Audio-friendly Design**: Every formula has a readable version
+- 🎯 **Intuitive Understanding First**: Explain abstract concepts with real-life examples
+- 🔢 **Complete Math Content**: Advanced mathematics level, formulas not omitted
+- 🤖 **AI Application Chapter**: Cross-entropy, VAE, diffusion models, etc.
+
+## 📚 Table of Contents
+
+### Part 1: Random Events and Probability
+- Random phenomena and sample space
+- Definition and properties of probability
+- Conditional probability and independence
+
+### Part 2: Random Variables and Distributions
+- Concept of random variables
+- Common discrete distributions (Binomial, Poisson, Geometric)
+- Common continuous distributions (Normal, Exponential, Uniform)
+
+### Part 3: Multivariate Random Variables
+- Joint distribution, marginal distribution, conditional distribution
+
+### Part 4: Numerical Characteristics
+- Expectation, variance, covariance, correlation coefficient
+
+### Part 5: Law of Large Numbers and Central Limit Theorem
+
+### Part 6: Mathematical Statistics Basics
+- Parameter estimation (Method of moments, Maximum likelihood)
+- Hypothesis testing (Z-test, t-test)
+
+### Part 7: AI and Probability Statistics
+- Probabilistic nature of neural network training
+- Variational inference and VAE
+- Mathematical foundations of diffusion models
+- Bayesian optimization
+
+## ⏱️ Estimated Duration
+
+Approximately **6.8 hours** (~118,000 words)
+
+## 📁 Files
+
+| File | Description |
+|------|-------------|
+| `00_大纲与设计说明.md` | Course outline and design philosophy |
+| `概率统计学习资料.md` | Complete learning content |
+
+---
+
 # 概率统计学习资料
 
 系统化的概率论与数理统计学习指南，专为"听书"场景设计。
@@ -51,5 +105,7 @@
 | `概率统计学习资料.md` | 完整学习内容 |
 
 ---
+
+*Design philosophy: Let mathematics be heard* 🎧
 
 *设计理念：让数学可以被听见* 🎧
